@@ -1,7 +1,7 @@
 # Blog Artifacts
 
-Code examples, scripts, and supporting materials from blog posts at [digitalduquette.com/blog]
-(https://digitalduquette.com/blog).
+Code examples, scripts, and supporting materials from blog posts at 
+[digitalduquette.com/blog](https://digitalduquette.com/blog).
 
 ## About
 
